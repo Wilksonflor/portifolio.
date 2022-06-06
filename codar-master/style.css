@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sarala', sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+header{
+    width: 100%;
+}
+.logo{
+    cursor: pointer;
+    width: 30px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #D6000D;
+}
+li, .button{
+    display: inline;
+    list-style-type: none;
+}
+.menu nav a{
+  color: black;
+  text-decoration: none;
+  margin: 20px;
+  padding-right: 20px;
+  font-size: 19px;
+}
+#button{
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #D6000D;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+main{
+    width: 70%;
+    padding-top: 20px;
+}
+.aside1 img{
+    float: left;
+    padding-top: 20px;
+    width: 280px;
+    height: 280px;
+}
+.article1{
+    width: 
+    display;
+    padding-right: 30px;
+    height: 300px;
+    float: right;
+}
+span{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+    color: #D6000D;
+}
+#orcamento{
+
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #D6000D;
+    color: white;
+    width: 300px;
+    height: 50px;
+}
